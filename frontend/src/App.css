@@ -1,0 +1,62 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .link-form {
+    margin: 20px 0;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #21a1f1;
+  }
+  
+  .link-list {
+    margin: 20px;
+  }
+  
+  .link-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .link-list li {
+    margin: 10px 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #61dafb;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  strong {
+    color: #282c34;
+  }
+  
